@@ -1,7 +1,12 @@
 # WDD 130 Starting Template Repository
 
 This repository provides the starter files, practice activities, and folder structure for **WDD 130: Web Fundamentals**. Use it as the foundation for your coursework as you learn HTML, CSS, Git, GitHub, and GitHub Pages.
+<body>
+    <h1>Welcome to WDD 130</h1>
+    <p>This page will become your homepage for the course. You will remove this text and replace it with your own personal details.</p>
 
+    <img src="images/salt-lake-temple.jpg" alt="The Salt Lake Temple.">
+</body>
 ## Getting started
 
 1. Create your own copy of this repository using GitHub's **Use this template** button, or follow your instructor's directions for obtaining the repository.
