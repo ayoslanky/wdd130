@@ -60,7 +60,7 @@ footer{
     font-size: 0.9rem;
 } */
 
- * {
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
@@ -108,7 +108,7 @@ h1 {
     margin-bottom: 1rem;
 }
 
-h1 rule{
+h1 rule {
     color: #1a365d;
 }
 
@@ -139,6 +139,7 @@ aside {
     background-color: #eeeeee;
     color: #333333;
 }
+
 section {
     background-color: #ddd;
     padding: 1.25rem;
