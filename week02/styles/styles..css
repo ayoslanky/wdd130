@@ -103,10 +103,13 @@ main {
 }
 
 h1 {
-    color: #1a365d;
     text-align: center;
     font-size: 1.8rem;
     margin-bottom: 1rem;
+}
+
+h1 rule{
+    color: #1a365d;
 }
 
 p {
