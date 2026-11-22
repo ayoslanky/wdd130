@@ -1,42 +1,54 @@
-/* *{
+*{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-body{
-    font-family : Arial, Helvetica, sans-serif;
-    line-height : 1.6
-}
 
 
-header{
-    background-color : black;
-    color : white;
-    padding : 10 px;
-    text-align : center;
-    font-size :1.5rem;
-}
 nav {
-            background-color: #333333;
-            padding: 1rem;
+    background-color: #333333;
+    padding: 1rem;
 }
 
-main{
-    width :400px;
-    margin : 0auto;
+nav a {
+    color:white;
+    display:block;
+    padding: 20rem;
 }
 
-h1{ margin: 10px;
-    text-align: centre;
+h1 {
+    
+    color: #1a365d;
 }
 
-h2{
-    border-bottom: 1px solid #222;
+h2 {
+    position: absolute;
+    top: 30px;
+    left: 100ox;
+}
+
+aside{
+    width :20rem;
+    text-align :centre;
+    position: relative;
+
 }
 img{
-    width :100%;
+    width :200px;
     height: auto;
-    box-shadow: 30px 20px 30px black;
+    border: 1px solid black;
+    padding: 2px;
+    box-shadow: 0px 0px 30px grey;
+}
+
+main img{
+    width:150px;
+    height:auto;
+    float :right
+}
+
+p{
+    padding: 0%;
 }
 
 section{
@@ -48,6 +60,10 @@ section{
 
 }
 
+p{
+    padding:0;
+}
+
 section p{
     margin : 10px;
 
@@ -55,10 +71,24 @@ section p{
 ul{
     margin: 10px 20px;
 }
+footer {
 
-footer{
-    font-size: 0.9rem;
-} */
+    font-size: 0.95rem;
+    margin-top: 1rem;
+    border-top: 1rem solid #000000;
+    text-align: center;
+}
+
+/* class selectors */
+.box {
+    margin: 1rem;
+    padding: 1rem;
+    border: #000000;
+    background-color: #333(89, 5, 179); 
+    color: #1a365d;
+}
+
+
 
 * {
     margin: 0;
